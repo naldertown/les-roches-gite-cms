@@ -10,6 +10,10 @@ $primary-invert: $brand-signature-invert
 $body-color: #333
 $black: #2b2523
 
+h1, h2, h3, h4, h5
+  font-weight: 300 !important;
+
+
 .navbar .navbar-menu
   box-shadow:none !important
 
@@ -31,7 +35,7 @@ $black: #2b2523
 // Helper Classes
 .full-width-image-container
   width: 100vw
-  height: 400px
+  height: calc(100vh - 66px)
   position: relative
   left: 50%
   right: 50%
@@ -44,7 +48,7 @@ $black: #2b2523
 
 .full-width-image
     width: 100vw
-    height: 400px
+    height: calc(100vh - 66px)
     background-size: cover
     background-position: bottom
     display: flex
