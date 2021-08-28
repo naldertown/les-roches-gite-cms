@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: A touch of paradise in rural France
-image: /img/home-jumbotron.jpg
+image: /img/f622bb18-0f6c-474b-ad57-802dcd3a76a1.jpeg
 heading: Explore the <insert regions>
 subheading: Enjoy the history and beauty of <insert regions> in comfort
 mainpitch:
@@ -10,8 +10,6 @@ mainpitch:
     Les Roches is within easy access of the N10, a slice of paradise in amoungst
     the rugged beaty of <insert region>. With easy access to popular
     destinations such as Futuroscope.
-description: Head to the nearby towns of Chaunay and <insert towns> and enjoy a
-  coffee and watch the world go by. There's so much to do and see.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -34,6 +32,15 @@ intro:
     With one of the best climates in France our Gite offers great access to the
     region whilst offering the kind of ammenities and comfort that you might not
     expect from a rural Gite.
+testimonials:
+  - author: Elisabeth Kaurismäki
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      the same thing I’ve been drinking every morning.
+  - author: Philipp Trommler
+    quote: Kaldi is the place to go if you want the best quality coffee. I love
+      their stance on empowering farmers and transparency.
+description: Head to the nearby towns of Chaunay and <insert towns> and enjoy a
+  coffee and watch the world go by. There's so much to do and see.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -50,13 +57,4 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
 ---
