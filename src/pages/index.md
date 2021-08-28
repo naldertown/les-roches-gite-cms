@@ -1,56 +1,39 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: A touch of paradise in rural France
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Explore the <insert regions>
+subheading: Enjoy the history and beauty of <insert regions> in comfort
 mainpitch:
-  title: Why Kaldi
+  title: Why Les Roches?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Les Roches is within easy access of the N10, a slice of paradise in amoungst
+    the rugged beaty of <insert region>. With easy access to popular
+    destinations such as Futuroscope.
+description: Head to the nearby towns of Chaunay and <insert towns> and enjoy a
+  coffee and watch the world go by. There's so much to do and see.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: The accommodation offers 2 double bedrooms, a shower room, kitchen and
+        living area. A mezzanine offers additional space or sleeping for 2 above
+        the living space.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        The gardens extend for several acres with areas to sit and enjoy the
+        peace. There are no shortage of places to relax.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: A heated pool provides enterntainment and relaxation for all ages. It's a
+        real sun trap and also offers an outside shower.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        A warm welcome. Amanda and Brad welcome you to their Gite and hope you
+        will enjoy your stay.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    With one of the best climates in France our Gite offers great access to the
+    region whilst offering the kind of ammenities and comfort that you might not
+    expect from a rural Gite.
 main:
   heading: Great coffee with no compromises
   description: >
