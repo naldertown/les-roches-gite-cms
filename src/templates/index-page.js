@@ -37,7 +37,7 @@ export const IndexPageTemplate = ({
         }}
       >
         <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+          className="is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             backgroundColor: 'rgba(0, 0, 0, .15)',
             backdropFilter: 'blur(5px)',
@@ -49,7 +49,7 @@ export const IndexPageTemplate = ({
           {title}
         </h1>
         <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          className="is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             backgroundColor: 'rgba(0, 0, 0, .15)',
             backdropFilter: 'blur(5px)',
