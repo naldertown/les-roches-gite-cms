@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import Testimonials from '../components/Testimonials'
 
 export const IndexPageTemplate = ({
   image,
@@ -14,6 +15,7 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
+  testimonials,
 }) => (
   <div>
     <div
@@ -41,7 +43,8 @@ export const IndexPageTemplate = ({
           style={{
             boxShadow:
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+            backgroundColor: 'rgba(0, 0, 0, .15)',  
+            backdropFilter: 'blur(5px)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -87,13 +90,7 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
-                  </div>
-                </div>
+                <Testimonials testimonials={testimonials} />
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
@@ -121,6 +118,7 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
+  testimonials: PropTypes.array,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -139,6 +137,7 @@ const IndexPage = ({ data }) => {
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
+        testimonials={frontmatter.testimonials}
       />
     </Layout>
   )
@@ -186,6 +185,10 @@ export const pageQuery = graphql`
           }
           heading
           description
+        }
+        testimonials {
+          author
+          quote
         }
       }
     }
