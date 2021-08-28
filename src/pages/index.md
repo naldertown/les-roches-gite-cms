@@ -14,7 +14,7 @@ description: Head to the nearby towns of Chaunay and <insert towns> and enjoy a
   coffee and watch the world go by. There's so much to do and see.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
       text: The accommodation offers 2 double bedrooms, a shower room, kitchen and
         living area. A mezzanine offers additional space or sleeping for 2 above
         the living space.
