@@ -67,7 +67,7 @@ export const IndexPageTemplate = ({
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-7">
               <div className="content">
                 <div className="content">
                   <div className="tile">
@@ -85,6 +85,12 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
+
+                </div>
+              </div>
+              <div className="column is-5">
+                <div class="airbnb-embed-frame" data-id="51627963" data-view="home" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.co.uk/rooms/51627963?guests=1&amp;adults=1&amp;s=66&amp;unique_share_id=a0634db6-c28c-4725-b980-376a1454f95f&amp;source=embed_widget">View on Airbnb</a><a href="https://www.airbnb.co.uk/rooms/51627963?guests=1&amp;adults=1&amp;s=66&amp;unique_share_id=a0634db6-c28c-4725-b980-376a1454f95f&amp;source=embed_widget" rel="nofollow">Les Roches</a><script async="" src="https://www.airbnb.co.uk/embeddable/airbnb_jssdk"></script></div>
+              </div>
                 <Features gridItems={intro.blurbs} />
                 <h3 className="subtitle">Testimonials</h3>
                 <Testimonials testimonials={testimonials} />
