@@ -99,7 +99,7 @@ export const IndexPageTemplate = ({
               </div>
             </div>
           </div>
-          <div className="columns">
+          {/* <div className="columns">
             <div className="column is-12">
               <h3 className="has-text-weight-semibold is-size-2">
                 Latest stories
@@ -113,7 +113,7 @@ export const IndexPageTemplate = ({
                 Read more
               </Link>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
