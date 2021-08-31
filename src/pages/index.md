@@ -17,7 +17,7 @@ description: Head to the nearby town of Chaunay and enjoy a coffee and watch the
   to do and see.
 intro:
   blurbs:
-    - image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
+    - image: /img/les-roches-gite-bedroom.jpg
       text: The accommodation offers 2 double bedrooms, a shower room, kitchen and
         living area. A mezzanine offers additional space or sleeping for 2 above
         the living space.
@@ -25,10 +25,10 @@ intro:
       text: >
         The gardens extend for several acres with areas to sit and enjoy the
         peace. There are no shortage of places to relax.
-    - image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
+    - image: /img/les-roches-gite-pool.jpg
       text: A heated pool provides enterntainment and relaxation for all ages. It's a
         real sun trap and also offers an outside shower.
-    - image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
+    - image: /img/les-roches-gite-meadow.jpg
       text: >
         A warm welcome. Amanda and Brad welcome you to their Gite and hope you
         will enjoy your stay.
@@ -41,14 +41,14 @@ main:
   heading: Les Roches Gite, Poitou-Charentes, France
   description: A beautiful Gite in the Poitou-Charentes region of France
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
+    alt: The Gite exterior
+    image: /img/f622bb18-0f6c-474b-ad57-802dcd3a76a1.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
+    alt: Bedroom 1
+    image: /img/les-roches-gite-bedroom.jpg
   image3:
-    alt: Coffee beans
-    image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
+    alt: The garden
+    image: /img/les-roches-gite-gardens.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
