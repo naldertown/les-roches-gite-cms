@@ -1,10 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
 import Testimonials from '../components/Testimonials'
+import { ContactForm } from './forms'
 
 export const IndexPageTemplate = ({
   image,
@@ -82,7 +82,7 @@ export const IndexPageTemplate = ({
 
             </div>
             <div className="column is-5">
-              <div class="airbnb-embed-frame" data-id="51627963" data-view="home" style={{
+              <div className="airbnb-embed-frame" data-id="51627963" data-view="home" style={{
                 width: '100%',
                 height: '300px',
               }}>
@@ -94,26 +94,20 @@ export const IndexPageTemplate = ({
             <div className="column is-12">
               <div className="content">
                 <Features gridItems={intro.blurbs} />
-                <h3 className="subtitle">Testimonials</h3>
-                <Testimonials testimonials={testimonials} />,
               </div>
             </div>
           </div>
-          {/* <div className="columns">
-            <div className="column is-12">
-              <h3 className="has-text-weight-semibold is-size-2">
-                Latest stories
-              </h3>
-              <BlogRoll />
+          <div className="columns">
+            <div className="column is-6">
+              <div className="content">
+                <h3 className="subtitle">Testimonials</h3>
+                <Testimonials testimonials={testimonials} />
+              </div>
+            </div>
+            <div className="column is-6">
+              <ContactForm />
             </div>
           </div>
-          <div className="columns">
-            <div className="column is-12 has-text-centered">
-              <Link className="btn" to="/blog">
-                Read more
-              </Link>
-            </div>
-          </div> */}
         </div>
       </div>
     </section>

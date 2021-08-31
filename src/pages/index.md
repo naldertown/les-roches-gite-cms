@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: A touch of paradise in rural France
-image: /img/les-roches-hero-good.png
+image: /img/les-roches-gite-hero.jpg
 heading: Explore the <insert regions>
 subheading: Enjoy the history and beauty of <insert regions> in comfort
 mainpitch:
