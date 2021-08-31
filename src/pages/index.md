@@ -2,30 +2,33 @@
 templateKey: index-page
 title: A touch of paradise in rural France
 image: /img/les-roches-gite-hero.jpg
-heading: Explore the <insert regions>
-subheading: Enjoy the history and beauty of <insert regions> in comfort
+heading: Explore the Poitou-Charentes region
+subheading: Enjoy the history and beauty of the Poitou-Charentes in comfort
 mainpitch:
   title: Why Les Roches?
   description: >
     Les Roches is within easy access of the N10, a slice of paradise in amoungst
-    the rugged beaty of <insert region>. With easy access to popular
-    destinations such as Futuroscope.
-description: Head to the nearby towns of Chaunay and <insert towns> and enjoy a
-  coffee and watch the world go by. There's so much to do and see.
+    the rugged beaty of the Poitou-Charentes region. With easy access to popular
+    destinations such as Futuroscope and The Valley of the Monkeys Les Roches is
+    the perfect base.
+description: Head to the nearby town of Chaunay and enjoy a coffee and watch the
+  world go by or head to some of the hostoric local towns such as
+  Verteuil-sur-Charente to explore the Chateaus and restaurants. There's so much
+  to do and see.
 intro:
   blurbs:
     - image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
       text: The accommodation offers 2 double bedrooms, a shower room, kitchen and
         living area. A mezzanine offers additional space or sleeping for 2 above
         the living space.
-    - image: /img/coffee-gear.png
+    - image: /img/les-roches-gite-gardens.jpg
       text: >
         The gardens extend for several acres with areas to sit and enjoy the
         peace. There are no shortage of places to relax.
-    - image: /img/tutorials.png
+    - image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
       text: A heated pool provides enterntainment and relaxation for all ages. It's a
         real sun trap and also offers an outside shower.
-    - image: /img/meeting-space.png
+    - image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
       text: >
         A warm welcome. Amanda and Brad welcome you to their Gite and hope you
         will enjoy your stay.
@@ -35,21 +38,17 @@ intro:
     region whilst offering the kind of ammenities and comfort that you might not
     expect from a rural Gite.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Les Roches Gite, Poitou-Charentes, France
+  description: A beautiful Gite in the Poitou-Charentes region of France
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/d11ea0d4-6ac4-4fb8-952b-268aba0fdd01.jpeg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
