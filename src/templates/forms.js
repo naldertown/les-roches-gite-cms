@@ -1,5 +1,4 @@
 import React, { useCallback, useState } from "react"
-import { navigate } from 'gatsby-link'
 
 export const encode = (data) => Object.keys(data)
     .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
