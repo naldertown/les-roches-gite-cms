@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: A touch of paradise in rural France
-image: /img/les-roches-gite-hero.jpg
+image: /img/les-roches-hero.jpg
 heading: Explore the Poitou-Charentes region
 subheading: Enjoy the history and beauty of the Poitou-Charentes in comfort
 mainpitch:
