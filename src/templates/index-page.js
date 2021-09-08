@@ -5,6 +5,7 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import { ContactForm } from './forms'
+import { Hero, HeroSubTitle, HeroTitle } from './styles'
 
 export const IndexPageTemplate = ({
   image,
@@ -17,7 +18,7 @@ export const IndexPageTemplate = ({
   testimonials,
 }) => (
   <div>
-    <div
+    <Hero
       className="full-width-image margin-top-0"
       style={{
         backgroundImage: `url(${!!image.childImageSharp ? image.childImageSharp.fluid.src : image
@@ -36,7 +37,7 @@ export const IndexPageTemplate = ({
           flexDirection: 'column',
         }}
       >
-        <h1
+        <HeroTitle
           className="is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             backgroundColor: 'rgba(0, 0, 0, .15)',
@@ -47,8 +48,8 @@ export const IndexPageTemplate = ({
           }}
         >
           {title}
-        </h1>
-        <h3
+        </HeroTitle>
+        <HeroSubTitle
           className="is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             backgroundColor: 'rgba(0, 0, 0, .15)',
@@ -59,9 +60,9 @@ export const IndexPageTemplate = ({
           }}
         >
           {subheading}
-        </h3>
+        </HeroSubTitle>
       </div>
-    </div>
+    </Hero>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
@@ -72,7 +73,7 @@ export const IndexPageTemplate = ({
                   <h1 className="title">{mainpitch.title}</h1>
                 </div>
                 <div className="tile">
-                  <h4 className="subtitle">{mainpitch.description}</h4>
+                  <p className="subtitle">{mainpitch.description}</p>
                 </div>
                 <h3 className="has-text-weight-semibold is-size-2">
                   {heading}

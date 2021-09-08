@@ -7,3 +7,35 @@ export const Card = styled.div`
     border-radius: 8px;
     margin-bottom: 15px;
 `
+
+export const BookNowLabel = styled.span`
+    margin-right: 4px;
+    color: inherit;
+`
+
+export const BookNow = styled.a`
+    display: flex;
+    justify-content: center;
+    &:hover, &:active, &:visited {
+        ${BookNowLabel} {
+            color: #2b2523;
+        }
+    }
+    &:visited {
+        ${BookNowLabel} {
+            color: #333;
+        }
+    }
+`
+
+export const BookNowIcon = styled.span`
+    vertical-align: middle;
+`
+
+export const NavBarFixed = styled.nav`
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.5);
+`

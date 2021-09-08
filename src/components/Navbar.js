@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/les-roches-logo.svg'
 import { Airbnb } from '@styled-icons/boxicons-logos'
+import { BookNow, BookNowIcon, BookNowLabel, NavBarFixed } from './styles'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -34,7 +35,7 @@ const Navbar = class extends React.Component {
 
   render() {
     return (
-      <nav
+      <NavBarFixed
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
@@ -68,20 +69,21 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <a
+              <BookNow
                 className="navbar-item"
                 href="https://www.airbnb.co.uk/rooms/51627963?guests=1&amp;adults=1&amp;s=66&amp;unique_share_id=a0634db6-c28c-4725-b980-376a1454f95f"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <span className="icon">
+                <BookNowLabel>Book on Airbnb</BookNowLabel>
+                <BookNowIcon className="icon">
                   <Airbnb />
-                </span>
-              </a>
+                </BookNowIcon>
+              </BookNow>
             </div>
           </div>
         </div>
-      </nav>
+      </NavBarFixed>
     )
   }
 }
