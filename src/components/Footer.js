@@ -5,6 +5,7 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
+import { FacebookProvider, Page } from 'react-facebook';
 
 const Footer = class extends React.Component {
   render() {
@@ -40,7 +41,9 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4">
-                
+                <FacebookProvider appId="856933508517409">
+                  <Page href="https://www.facebook.com/media/set/?set=a.222790336401983&type=3" tabs="timeline" />
+                </FacebookProvider>
               </div>
               <div className="column is-4 social">
                 <div className="content has-text-centered">
@@ -50,14 +53,14 @@ const Footer = class extends React.Component {
                     style={{ width: '50%', maxWidth: '50%', height: 'auto' }}
                   />
                 </div>
-                <a title="facebook" href="https://facebook.com">
+                <a title="facebook" href="https://www.facebook.com/media/set/?set=a.222790336401983&type=3">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                {/* <a title="twitter" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -78,7 +81,7 @@ const Footer = class extends React.Component {
                     alt="Vimeo"
                     style={{ width: '1em', height: '1em' }}
                   />
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
