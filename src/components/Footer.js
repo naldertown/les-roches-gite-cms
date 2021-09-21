@@ -44,7 +44,7 @@ const Footer = class extends React.Component {
                     </ul>
                   </section>
                 </div>
-                <div className="column is-8 has-text-centered">
+                <div className="column is-4 has-text-centered">
                   <Page href="https://www.facebook.com/Lesrochesgite" tabs="timeline" style={{width: "100%" }}/>
                 </div>
               </div>
