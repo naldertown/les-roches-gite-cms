@@ -39,3 +39,26 @@ export const NavBarFixed = styled.nav`
     right: 0;
     box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.5);
 `
+
+export const FooterColumn = styled.div`
+    text-align: center;
+
+    @media (min-width: 768px){
+        text-align: left;
+    }
+
+    * {
+        text-align: center;
+
+        @media (min-width: 768px){
+            text-align: left;
+        }
+    }
+
+    .fb_iframe_widget {
+        max-width: 100%;
+        > span {
+            max-width: 100%;
+        }
+    }
+`

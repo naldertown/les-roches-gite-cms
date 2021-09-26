@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/les-roches-logo.svg'
 import { FacebookProvider, Page } from 'react-facebook';
+import { FooterColumn } from './styles';
 
 const Footer = class extends React.Component {
   render() {
@@ -10,15 +11,15 @@ const Footer = class extends React.Component {
         <footer className="footer has-background-black has-text-white-ter">
           <div className="content has-background-black has-text-white-ter">
             <div className="container has-background-black has-text-white-ter">
-              <div style={{ maxWidth: '100vw' }} className="columns">
-                <div className="column is-4 has-text-centered">
+              <div className="columns">
+                <FooterColumn className="column is-4">
                   <img
                     src={logo}
                     alt="Les Roches Gite"
                     style={{ width: '50%', maxWidth: '50%', height: 'auto' }}
                   />
-                </div>
-                <div className="column is-4">
+                </FooterColumn>
+                <FooterColumn className="column is-4">
                   <section className="menu">
                     <ul className="menu-list">
                       <li>
@@ -43,10 +44,10 @@ const Footer = class extends React.Component {
                       </li>
                     </ul>
                   </section>
-                </div>
-                <div className="column is-4 has-text-centered">
-                  <Page href="https://www.facebook.com/Lesrochesgite" tabs="timeline" style={{width: "100%" }}/>
-                </div>
+                </FooterColumn>
+                <FooterColumn className="column is-4">
+                  <Page href="https://www.facebook.com/Lesrochesgite" tabs="timeline" style={{width: "100%", minWidth: '100%' }}/>
+                </FooterColumn>
               </div>
             </div>
           </div>
