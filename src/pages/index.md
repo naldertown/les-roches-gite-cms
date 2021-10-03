@@ -32,6 +32,20 @@ intro:
       text: >
         A warm welcome. Amanda and Brad welcome you to their Gite and hope you
         will enjoy your stay.
+    - image: /img/img_2879.jpg
+      text: Bedroom upstairs
+    - image: /img/img_2872.jpg
+      text: Bathroom situated downstairs opposite bedroom 1
+    - image: /img/img_2863.jpg
+      text: "Open plan lounge "
+    - image: /img/img_2860.jpg
+      text: "Kitchen and diner "
+    - image: /img/img_2866.jpg
+      text: Up on the mezzanine 2 single beds
+    - image: /img/img_2892.jpg
+      text: Side view of Les Roches
+    - image: /img/cfccc985-890a-44f8-956c-e74331cd5ac3-1-.jpg
+      text: "View from our back garden onto the pool "
   heading: What we offer
   description: >
     With one of the best climates in France our Gite offers great access to the
