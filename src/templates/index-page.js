@@ -6,6 +6,7 @@ import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import { ContactForm } from './forms'
 import { Hero, HeroSubTitle, HeroTitle } from './styles'
+import AirbnbListingPreview from '../components/AirbnbListingPreview'
 
 export const IndexPageTemplate = ({
   image,
@@ -83,12 +84,7 @@ export const IndexPageTemplate = ({
 
             </div>
             <div className="column is-5">
-              <div className="airbnb-embed-frame" data-id="51627963" data-view="home" style={{
-                width: '100%',
-                height: '300px',
-              }}>
-                <a href="https://www.airbnb.co.uk/rooms/51627963?guests=1&amp;adults=1&amp;s=66&amp;unique_share_id=a0634db6-c28c-4725-b980-376a1454f95f&amp;source=embed_widget">View on Airbnb</a><a href="https://www.airbnb.co.uk/rooms/51627963?guests=1&amp;adults=1&amp;s=66&amp;unique_share_id=a0634db6-c28c-4725-b980-376a1454f95f&amp;source=embed_widget" rel="nofollow">Les Roches</a><script async="" src="https://www.airbnb.co.uk/embeddable/airbnb_jssdk"></script>
-              </div>
+              <AirbnbListingPreview />
             </div>
           </div>
           <div className="columns">
