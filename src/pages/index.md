@@ -20,7 +20,9 @@ description: Head to the nearby town of Chaunay and enjoy a coffee and watch the
   Verteuil-sur-Charente to explore the Chateau and restaurants. Civray is 20
   mins away with a few restaurants and bars and the town of Couhe is 10 mins
   away where our favourite local restaurant is 'Melkins' and they serve the best
-  pizza I've ever eaten!  There's so much to do and see.
+  pizza I've ever eaten! There's also bars, boulangeries and vets, dentist and
+  doctors and a couple of supermarkets with petrol stations also. we have lots
+  of fishing lakes and kayaking on our doorstep.There's so much to see and do.
 intro:
   blurbs:
     - image: /img/les-roches-gite-bedroom.jpg
