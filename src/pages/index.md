@@ -16,9 +16,11 @@ mainpitch:
 
     Poitiers airport is 35 min north on the N10 and flights run from London Stansted 3 times a week.
 description: Head to the nearby town of Chaunay and enjoy a coffee and watch the
-  world go by or head to some of the hostoric local towns such as
-  Verteuil-sur-Charente to explore the Chateaus and restaurants. There's so much
-  to do and see.
+  world go by or head to some of the historic local towns such as
+  Verteuil-sur-Charente to explore the Chateau and restaurants. Civray is 20
+  mins away with a few restaurants and bars and the town of Couhe is 10 mins
+  away where our favourite local restaurant is 'Melkins' and they serve the best
+  pizza I've ever eaten!  There's so much to do and see.
 intro:
   blurbs:
     - image: /img/les-roches-gite-bedroom.jpg
