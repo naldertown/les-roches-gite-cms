@@ -22,7 +22,7 @@ description: Head to the nearby town of Chaunay and enjoy a coffee and watch the
   away where our favorite local restaurant is 'Melkins' and they serve the best
   pizza I've ever eaten! There's also bars, boulangeries and vets, dentist and
   doctors and a couple of supermarkets with petrol stations also. We also have
-  lots of fishing lakes and kayaking on our doorstep.There's so much to see and
+  lots of fishing lakes and kayaking on our doorstep. There's so much to see and
   do.
 intro:
   blurbs:
@@ -73,10 +73,18 @@ main:
     alt: The garden
     image: /img/les-roches-gite-gardens.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+  - quote: "Amazing gite to stay in, beautifully decorated fab facilities and Amanda
+      is a wonderful hostess.  Lots to do locally with the family or just chill
+      by the pool and enjoy the wine! 🍷 perhaps borrow the gites bicycles to go
+      to the local bar 🍻 highly recommend by the Stiles family as really
+      enjoyed our stay at Les Roches it has everything you need home from home.
+      Thank you Graham and Amanda xx   "
+    author: Jo & John Stiles - August 2021
+  - quote: The gite is more like a home from home with all the necessary facilities.
+      Two very spacious and lovely bedrooms with an extra 2 single beds on the
+      mezzanine above the main living area, a comfortable lounge, and a very
+      well fitted out kitchen. Bathroom and shower are on the ground floor,
+      plenty of outdoor space which is another plus for the gite to make your
+      holiday most enjoyable.
+    author: Thomas Wilson - September 2021
 ---
