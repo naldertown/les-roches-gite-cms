@@ -87,4 +87,11 @@ testimonials:
       plenty of outdoor space which is another plus for the gite to make your
       holiday most enjoyable.
     author: Thomas Wilson - September 2021
+  - quote: The gite is stunning, in October we are enjoying the real fire after a
+      day of sunshine in nearby historical Poitiers! The bed is so comfy, stayed
+      in many James villas properties where this wasn’t the case. The gite
+      owners left wine which was a lovely touch. Everything has been furnished
+      to a high end, we are looking forward to revisiting. Next time when we
+      stay longer we would love to visit La Rochelle and Bordeaux
+    author: Mel & Will Taylor - 2021
 ---
