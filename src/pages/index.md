@@ -14,7 +14,7 @@ mainpitch:
     perfect base if you're just travelling through as it is situated 5 mins from
     the N10 which runs all the way down to the south of France and Spain. 
 
-    Poitiers airport is 35 min north on the N10 and flights run from London Stansted 3 times a week.
+    Poitiers airport is 35 min north on the N10 and flights run from London Stansted 3 times a week. We are also pet friendly and have 2 small dogs of own.
 description: Head to the nearby town of Chaunay and enjoy a coffee and watch the
   world go by or head to some of the historic local towns such as
   Verteuil-sur-Charente to explore the Chateau and restaurants. Civray is 20
