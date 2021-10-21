@@ -94,4 +94,32 @@ testimonials:
       to a high end, we are looking forward to revisiting. Next time when we
       stay longer we would love to visit La Rochelle and Bordeaux
     author: Mel & Will Taylor - 2021
+  - quote: "My wife Melanie Taylor and I stayed at Les Roches Gite and were
+      wonderfully hosted by Amanda and Graham. The Gite is so spacious and the
+      beds are so comfy and everything is in place for relaxing, walking,
+      cycling, water sports and so much more in this beautiful area of France.
+      Poitier is a wonderful city and the easiest airport I've ever flown in and
+      out of. Roads to the Gite are so easy and direct with little traffic. I
+      guess we should thank the Romans for the road, but the history and story
+      of this area are legend. Richard the Lionheart's or Coeur de Lion's mother
+      was from Poitier and we visited Eleanor of Aquitaine's palace and
+      Cathedral, walked by the river and had lunch at the delightful Maurice's
+      Restaurant. On arrival at the Gite we took full advantage of the
+      opportunity of the welcome pack, so there was no need for any last minute
+      shopping on the date of arrival. French bread, Wine, beers, Jam, Coffee
+      and dairy etc. all sourced from local producers were provided for a very
+      reasonable cost. We also took advantage of Amanda's outstanding menu they
+      have available for lazy evenings where we didn't want to cook or eat out.
+      The Chicken, Leek and rosemary pie were baked and delivered to us and the
+      food was sheer perfection. Bikes are available for leisurely cycle rides
+      to nearby Chaunay, for Coffee or a beer at the Cafe des Sports and there's
+      also football pitches and tennis courts for the family. There's so much to
+      visit and see in the car, as the Gite is so central. Verteuil Sur Charente
+      is just stunning and shouldn't be missed. The place is picture perfect and
+      Kayak heaven. Bordeaux, Cognac, Limoges and La Rochelle are within easy
+      drives along effortless roads through stunning scenery. When we finally
+      got time to just be in the moment at the Gite, sun kissed afternoons at
+      the Gites pool and terrace area couldn't have been better. What an
+      absolutely stunning place. We'll be back! "
+    author: William Taylor - October 2021
 ---
