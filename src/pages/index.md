@@ -122,4 +122,9 @@ testimonials:
       the Gites pool and terrace area couldn't have been better. What an
       absolutely stunning place. We'll be back! "
     author: William Taylor - October 2021
+  - quote: Fantastic Gite, really well equipped with everything you could want for a
+      holiday in rural France and a lot more besides. Amanda and Graham are
+      excellent hosts and couldn't do enough for us. Had the best holiday and
+      look forward to returning very soon.Highly recommend!
+    author: Vikki Chivers, Leicester
 ---
