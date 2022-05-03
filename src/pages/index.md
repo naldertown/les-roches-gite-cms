@@ -127,4 +127,9 @@ testimonials:
       excellent hosts and couldn't do enough for us. Had the best holiday and
       look forward to returning very soon.Highly recommend!
     author: Vikki Chivers, Leicester
+  - quote: Nous avons trouve un excellent gite avec des hotes tres prevenants et
+      attentionnes. La proprete, les petites attention (viennoiseries, vin,
+      fleurs), le feu, la decoration font tous le charme des Roches.N'hesitez
+      pas a reserver!
+    author: Bertrand, April 2022
 ---
