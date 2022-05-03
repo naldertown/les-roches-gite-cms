@@ -132,4 +132,15 @@ testimonials:
       fleurs), le feu, la decoration font tous le charme des Roches.N'hesitez
       pas a reserver!
     author: Bertrand, April 2022
+  - quote: "Outstanding Gite in rural setting. we thoroughly enjoyed relaxing here
+      and wish we could have stayed longer. Wonderful welcome from Amanda and
+      Graham with a roaring log fire and a selection of much appreciated
+      goodies. Spotlessly clean and very beautifully decorated. Great shower
+      too. Excellent if you have a dog travelling with you as the large garden
+      is enclosed and there is a secure field directly accessed behind for a
+      walk. The pool and summer kitchen looked lovely too but we were staying in
+      mid November. Highly recommend this gite. I can honestly say it's the
+      nicest Airbnb we have stayed in to date.Thanks, hope to see you again in
+      the spring. "
+    author: Jane, Leeds
 ---
